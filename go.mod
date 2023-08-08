@@ -1,4 +1,4 @@
-module ruanpienaar/godb
+module github.com/ruanpienaar/godb
 
 go 1.20
 
