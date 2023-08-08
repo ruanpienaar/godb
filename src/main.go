@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"log"
 	"time"
-	"godb"
+	"github.com/ruanpienaar/godb"
 )
 
 func main() {
